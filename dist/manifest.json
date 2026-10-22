@@ -1,0 +1,35 @@
+{
+  "id": "/",
+  "name": "منظومة متابعة المشروعات الممولة - وزارة الموارد المائية والري",
+  "short_name": "منظومة الري",
+  "description": "منصة القيادة التنفيذية لمساعد وزير الموارد المائية والري لمتابعة المشروعات الممولة وتحليل EVM وS-Curve والتنبؤ بالتدفقات المالية والنظم الجغرافية.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#0d9488",
+  "dir": "rtl",
+  "lang": "ar",
+  "categories": ["government", "productivity", "business"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
